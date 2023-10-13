@@ -1,7 +1,8 @@
 # Create and Manage Cloud Resources Challenge Lab
 Create and Manage Cloud Resources: Challenge Lab of Google Cloud
 
-### Task 1. Create a project jumphost instance
+### Task 1. Create a project jumphost instance 
+
 Navigation menu > Compute engine > VM Instance
 
 1. Name for the VM instance :<b> [specified instance name]</b>
