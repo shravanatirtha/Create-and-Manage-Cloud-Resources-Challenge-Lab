@@ -32,7 +32,7 @@ Navigation menu > Compute engine > VM Instance
 
 > gcloud container clusters get-credentials nucleus-webserver1
 
-> kubectl create deployment hello-app --image=gcr.io/google-samples/hello-app:2.
+> kubectl create deployment hello-app --image=gcr.io/google-samples/hello-app:2.0
 
 > kubectl expose deployment hello-app --type=LoadBalancer --port [specified port]
 
